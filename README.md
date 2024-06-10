@@ -20,4 +20,10 @@
 Bluetooth Kontrollü Araç Projemiz sayesinde Bluetooth teknolojisinin kullanımı ile uzaktan 
 kontrollü bir aracın nasıl yapılabileceğini göstermiştir. Proje sayesinde Arduino Programlama, elektronik devre tasarımı ve Bluetooth iletişimi 
 konularında bilgi ve deneyim kazanmış olursunuz. Ayrıca bu tür projelerin günlük yaşamda nasıl 
-uygulanabileceğini ve ne tür pratik faydalar sağlayabileceğini de ortaya koymuş olduk. 
+uygulanabileceğini ve ne tür pratik faydalar sağlayabileceğini de ortaya koyuyor. 
+
+## Projenin Fotoğrafları
+<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 12px;">
+  <div style="flex: 1; min-width: 100px; max-width: 200px;">
+    <img src="" />
+  </div>
