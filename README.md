@@ -13,4 +13,4 @@
 ## Devre Şeması
 
 <div style="text-align: center;
-  <img src=""
+  <img src="https://github.com/IKaanGrck/BluetoothControlledVehicle/assets/115939095/3742ccf9-489e-4492-8b65-2e7930fd28fe" alt="" width= "80%" />
