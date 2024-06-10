@@ -11,3 +11,6 @@
 8. 2 Adet Tekerlek
 
 ## Devre Şeması
+
+<div style="text-align: center;
+  <img src=""
