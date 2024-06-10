@@ -8,5 +8,6 @@
 5. Hazır Araç Platformu
 6. Pil
 7. Jumper Kablo
+8. 2 Adet Tekerlek
 
 ## Devre Şeması
