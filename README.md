@@ -1,4 +1,4 @@
-<h1 style="border-bottom: 2px solid red; text-align: center;">Bluetooth Kontrollü Araç</h1>
+<h1 style="border-bottom: 3px solid red; text-align: center;">Bluetooth Kontrollü Araç</h1>
 
 ## Kullanılan Parçalar
 1. Arduino Uno
