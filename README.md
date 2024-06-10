@@ -25,5 +25,12 @@ uygulanabileceğini ve ne tür pratik faydalar sağlayabileceğini de ortaya koy
 ## Projenin Fotoğrafları
 <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 12px;">
   <div style="flex: 1; min-width: 100px; max-width: 200px;">
-    <img src="" />
+    <img src="https://github.com/IKaanGrck/BluetoothControlledVehicle/assets/115939095/cc357ba4-c9ea-43a4-9e2d-eb3eda573b3e" alt="" width= "100%" />
   </div>
+  <div style="flex: 1; min-width: 100px; max-width: 200px;">
+    <img src="https://github.com/IKaanGrck/BluetoothControlledVehicle/assets/115939095/3597466a-1da6-4cfe-a7e0-5fa0fedd7354" alt="" width= "100%" />
+  </div>
+  <div style="flex: 1; min-width: 100px; max-width: 200px;">
+    <img src="https://github.com/IKaanGrck/BluetoothControlledVehicle/assets/115939095/d5b37712-8e9f-4498-8bc0-66d2219f70ee" alt="" width= "100%" />
+  </div>
+</div>
