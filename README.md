@@ -13,7 +13,7 @@
 ## Devre Şeması
 
 <div style="text-align: center;">
-  <img src="https://github.com/IKaanGrck/BluetoothControlledVehicle/assets/115939095/3742ccf9-489e-4492-8b65-2e7930fd28fe" alt="" width= "80%" />
+  <img src="https://github.com/IKaanGrck/BluetoothControlledVehicle/assets/115939095/8e06cfad-0f5e-4f94-bbfc-743253ff5dbd" alt="" width= "80%" />
 </div>
 
 ## Bluetooth Kontrollü Araç Amacı
